@@ -1,3 +1,4 @@
+# BITÁCORA DEL PROYECTO – Juego de Mitos y Leyendas Bolivianas
 ## [26/02/2026]
 - Se creó el grupo
 ## [05/03/2026]
