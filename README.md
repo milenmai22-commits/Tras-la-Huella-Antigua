@@ -1,2 +1,7 @@
 # Tras-la-Huella-Antigua
 Proyecto De Programación Grafica y Multimedia I
+# Descripción: 
+Nuestro juego trata sobre un joven explorador que viaja por diferentes lugares de Bolivia para descubrir mitos y leyendas que forman parte de nuestra cultura. A lo largo del juego, el jugador podrá recorrer escenarios como montañas, pueblos, lagos y minas, donde irá encontrando historias, personajes y criaturas propias del folklore boliviano.
+La idea principal es que el jugador explore, resuelva acertijos y complete desafíos para avanzar en la historia. En cada nivel se presentará una leyenda diferente, lo que hace que el juego sea variado e interesante. También habrá momentos donde el jugador tendrá que enfrentarse a algunos seres míticos, lo que añade emoción a la experiencia.
+Durante el recorrido, el jugador podrá recoger objetos especiales que le ayudarán a mejorar sus habilidades, como su resistencia o ciertas capacidades especiales, lo que facilitará avanzar en niveles más difíciles.
+Con este juego no solo queremos entretener, sino también dar a conocer más sobre los mitos y leyendas de Bolivia, de una forma interactiva y divertida. Además, buscamos que el jugador sienta curiosidad y se conecte con la cultura a través de la historia, el ambiente y la música del juego.
