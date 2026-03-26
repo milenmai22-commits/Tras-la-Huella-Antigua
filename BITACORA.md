@@ -13,4 +13,4 @@
 - Se definio el nombre del proyecto
 - Se definio el nombre del grupo
 ## [26/03/2026]
-- Se creo el repositorio de git
+- Se creo el repositorio de git del proyecto
