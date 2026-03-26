@@ -23,7 +23,9 @@ Este videojuego no solo busca entretener, sino también rescatar y difundir la c
 
 ## Integrantes del Equipo
 * Maide Milenka Aviza Veliz
-* (Agregar más integrantes si corresponde)
+* Madai Melanye Chuquimia Zambrana 
+* Diego Ivan Paredes Laura 
+* Carlos Daniel Urquizu Mamani
 
 ## Instrucciones para Ejecutar el Proyecto
 1. Clonar el repositorio:
