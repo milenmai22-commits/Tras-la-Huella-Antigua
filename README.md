@@ -1,5 +1,4 @@
-# Mitos y Leyendas de Bolivia: El Explorador
-
+# Mitos y Leyendas de Bolivia: Tras-la-Huella-Antigua
 ## Descripción General
 Este proyecto consiste en el desarrollo de un videojuego de aventura y exploración inspirado en los mitos y leyendas de Bolivia. En él, el jugador asume el rol de un joven explorador que viaja por distintas regiones del país con el propósito de descubrir historias ocultas, resolver misterios y conocer más sobre la riqueza cultural boliviana.
 A lo largo del juego, el usuario recorrerá diversos escenarios como montañas, pueblos, lagos y minas, cada uno ambientado en una leyenda específica. La jugabilidad se centra en la exploración, la interacción con el entorno y la resolución de acertijos, lo que permite avanzar progresivamente en la historia.
