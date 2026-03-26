@@ -9,6 +9,7 @@
 - Se estableció que el juego será *2D tipo side-scroller*.
 - Se planteó la historia principal: un joven que busca *relicarios fragmentados relacionados con leyendas*.
 - Se planteó el avance mediante *niveles, acertijos y exploración de mapas*.
+- Se decidió que el juego tendrá *vista lateral*.
 ## [19/03/2026]
 - Se definio el nombre del proyecto
 - Se definio el nombre del grupo
